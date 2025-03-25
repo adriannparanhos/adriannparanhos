@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://www.pinterest.com/pin/534450680780561303/"  />
+  <img height="200" src="https://imgflip.com/gif/9olj9s"  />
 </div>
 
 ###
@@ -46,7 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 ###
 
 
