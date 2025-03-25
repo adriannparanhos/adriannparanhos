@@ -14,7 +14,7 @@ Aqui estão algumas ideias para você começar:
 
 ### Sobre o Projeto
 
-Este projeto é uma solução completa para gestão e análise de orçamentos e serviços. Ele integra diversos módulos e funcionalidades, incluindo:
+Este repositório abriga um projeto empresarial desenvolvido para otimizar a geração de orçamentos e a gestão de CRM, proporcionando maior eficiência e controle sobre processos comerciais.
 
 - **Cálculos de Orçamento:**  
   Cálculos precisos de valores, aplicação de descontos, distribuição proporcional entre itens e restauração dos valores originais.
