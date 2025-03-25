@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://tenor.com/pt-BR/view/deku-java-programing-cry-mochiatun-gif-24211286"  />
+  <img height="200" src="https://media1.tenor.com/m/a6S35wgiCOsAAAAd/deku-java.gif"  />
 </div>
 
 ###
