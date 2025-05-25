@@ -1,4 +1,4 @@
-<h2 align="left">Adriann Postigo</h2>
+<h2 align="left">Adriann Paranhos</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
