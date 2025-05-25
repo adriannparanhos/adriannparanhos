@@ -1,14 +1,5 @@
 <h2 align="left">Adriann Postigo</h2>
 
-###
-
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/a6S35wgiCOsAAAAd/deku-java.gif"  />
-</div>
-
-###
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java logo" />
   <img width="12" />
